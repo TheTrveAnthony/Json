@@ -1,0 +1,22 @@
+{
+
+
+	"gens":
+	[
+		{ 	
+		"nom": "anthony",
+		"age": "54",
+		"ville": "NY"
+		},
+
+
+		{ 	
+		"nom": "marc",
+		"age": "4",
+		"ville": "LA"
+		}
+
+
+	]
+
+}
